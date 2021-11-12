@@ -1,7 +1,11 @@
 <h1 align="left">Hi there, I'm Nikhil Sutariya 😎</h1>
 <h4 align="left">Enthusiastic Python Developer / Web Developer and I'm from Ahmedabad, Gujarat. Currently, I'm working as Python Developer 💼.<br><br> I'm also very good at frontend web technologies like Angular Js, Bootstrap, HTML5, CSS and SASS.</h4>
 
+- 🔭 I’m currently working on **Motive metrics**
+
 - 🌱 I’m currently learning **Pandas, Django and Angular**
+
+- 🤝 I’m looking for help with **who help me to learn pandas**
 
 - 📫 How to reach me **https://nikhilsutariya.epizy.com/**
 
