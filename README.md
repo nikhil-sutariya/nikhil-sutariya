@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **who help me to learn pandas**
 
-- 📫 How to reach me **https://nikhilsutariya.epizy.com/**
+- 📫 How to reach me **http://nikhilsutariya.epizy.com/**
 
 <br>
 <h4 align="left">Connect with me</h4>
