@@ -7,7 +7,7 @@
 
 - 🚀 I’m currently learning **Pandas, Django and Angular**
 
-- 🤝 I’m looking for help with **who help me to learn pandas**
+- 🤝 I’m looking for help with **who help me to learn Django**
 
 - 📫 How to reach me **http://nikhilsutariya.epizy.com/**
 
