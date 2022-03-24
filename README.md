@@ -3,8 +3,6 @@
 
 <h2 align="left">🔥 A few Quick Facts</h2>
 
-- 🔭 I’m currently working on **Motive metrics** project
-
 - 🚀 I’m currently learning **Pandas, Django and Angular**
 
 - 🤝 I’m looking for help with **who help me to learn Django**
