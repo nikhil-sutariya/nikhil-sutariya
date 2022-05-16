@@ -1,11 +1,11 @@
 <h1 align="left">Hi there, I'm Nikhil Sutariya 😎</h1>
-<h4 align="left">Enthusiastic Python Developer / Web Developer and I'm from Ahmedabad, Gujarat. Currently, I'm working as Python Developer 💼.<br><br> I'm also very good at frontend web technologies like Angular, Bootstrap, HTML5, CSS and JavaScript.</h4><br>
+<h4 align="left">Enthusiastic Python Developer / Web Developer and I'm from Ahmedabad, Gujarat. Currently, I'm working as Python Developer 💼.<br><br> I'm also very good at frontend web technologies like React, Bootstrap, HTML5, CSS and JavaScript.</h4><br>
 
 <h2 align="left">🔥 A few Quick Facts</h2>
 
-- 🚀 I’m currently learning **Pandas, Django and Angular**
+- 🚀 I’m currently learning **Pandas, Django and React**
 
-- 🤝 I’m looking for help with **who help me to learn Django**
+- 🤝 I’m looking for help with **who help me to improve Python knowledge in depth**
 
 - 📫 How to reach me **http://nikhilsutariya.epizy.com/**
 
@@ -25,7 +25,8 @@
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>&nbsp;
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> &nbsp;
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>&nbsp;
-  <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>&nbsp;
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>&nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>&nbsp;
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> &nbsp;
 </p>
